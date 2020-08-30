@@ -1,3 +1,3 @@
-turn_count(board)
-  return 1
+def turn_count(board)
+
 end
